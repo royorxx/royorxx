@@ -2,7 +2,7 @@
 
 I'm currently working on the AI application.
 
-I was the first generation of China AI investor from 2016. 
+I was the first generation of China AI investor in 2016. In the very first day, I was a true believer that believe in AI can help people to live better. But, there's always conflict of interest. AI entrepreneurs always look for bigger picture but capitcal which pushed by the LPs looks for the short term returen.  
 
 In the GPT period, I'm looking for teams that can help me to bring my idea into reality.
 
