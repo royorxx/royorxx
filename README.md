@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm currently working on the AI application.
+
+I was the first generation of China AI investor from 2016. 
+
+In the GPT period, I'm looking for teams that can help me to bring my idea into reality.
+
+
+
 <!--
 **royorxx/royorxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
